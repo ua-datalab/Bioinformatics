@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/e99d013a57fa40f7aceb8475bc2b8419/artifacts
+end_time: 1729734686334
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: e99d013a57fa40f7aceb8475bc2b8419
+run_name: funny-chimp-713
+run_uuid: e99d013a57fa40f7aceb8475bc2b8419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734684392
+status: 3
+tags: []
+user_id: codespace

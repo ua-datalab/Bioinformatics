@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/892f97bab56e4bf384a90b5d33a38692/artifacts
+end_time: 1729734694018
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: 892f97bab56e4bf384a90b5d33a38692
+run_name: thundering-cow-635
+run_uuid: 892f97bab56e4bf384a90b5d33a38692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734692084
+status: 3
+tags: []
+user_id: codespace

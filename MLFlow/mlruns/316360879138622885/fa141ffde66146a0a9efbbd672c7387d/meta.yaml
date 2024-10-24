@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/fa141ffde66146a0a9efbbd672c7387d/artifacts
+end_time: 1729734688285
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: fa141ffde66146a0a9efbbd672c7387d
+run_name: defiant-hare-462
+run_uuid: fa141ffde66146a0a9efbbd672c7387d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734686337
+status: 3
+tags: []
+user_id: codespace

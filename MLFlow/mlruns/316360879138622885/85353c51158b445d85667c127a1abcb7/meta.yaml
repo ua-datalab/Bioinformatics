@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/85353c51158b445d85667c127a1abcb7/artifacts
+end_time: 1729734698002
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: 85353c51158b445d85667c127a1abcb7
+run_name: debonair-deer-199
+run_uuid: 85353c51158b445d85667c127a1abcb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734695934
+status: 3
+tags: []
+user_id: codespace

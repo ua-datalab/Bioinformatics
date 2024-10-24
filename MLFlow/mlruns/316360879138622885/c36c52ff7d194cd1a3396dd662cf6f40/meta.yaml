@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/c36c52ff7d194cd1a3396dd662cf6f40/artifacts
+end_time: 1729734695932
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: c36c52ff7d194cd1a3396dd662cf6f40
+run_name: nimble-grouse-382
+run_uuid: c36c52ff7d194cd1a3396dd662cf6f40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734694020
+status: 3
+tags: []
+user_id: codespace

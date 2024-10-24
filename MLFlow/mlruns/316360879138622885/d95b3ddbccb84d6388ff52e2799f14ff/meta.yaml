@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/d95b3ddbccb84d6388ff52e2799f14ff/artifacts
+end_time: 1729734692081
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: d95b3ddbccb84d6388ff52e2799f14ff
+run_name: tasteful-colt-252
+run_uuid: d95b3ddbccb84d6388ff52e2799f14ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734690196
+status: 3
+tags: []
+user_id: codespace
