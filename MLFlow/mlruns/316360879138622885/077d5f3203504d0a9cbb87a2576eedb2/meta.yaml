@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/077d5f3203504d0a9cbb87a2576eedb2/artifacts
+end_time: 1729735760767
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: 077d5f3203504d0a9cbb87a2576eedb2
+run_name: unruly-wasp-248
+run_uuid: 077d5f3203504d0a9cbb87a2576eedb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729735758948
+status: 3
+tags: []
+user_id: codespace

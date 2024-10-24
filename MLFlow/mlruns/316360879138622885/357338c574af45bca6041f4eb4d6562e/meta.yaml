@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/357338c574af45bca6041f4eb4d6562e/artifacts
+end_time: 1729735758945
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: 357338c574af45bca6041f4eb4d6562e
+run_name: victorious-shrew-451
+run_uuid: 357338c574af45bca6041f4eb4d6562e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729735756893
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/8209feecc178487b8eb6461bb2511514/artifacts
+end_time: 1729735762733
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: 8209feecc178487b8eb6461bb2511514
+run_name: victorious-gnat-664
+run_uuid: 8209feecc178487b8eb6461bb2511514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729735760769
+status: 3
+tags: []
+user_id: codespace

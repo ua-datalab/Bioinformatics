@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/04202b3074ff4775bee79cfb0a3d9e26/artifacts
+end_time: 1729735753087
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: 04202b3074ff4775bee79cfb0a3d9e26
+run_name: useful-snipe-927
+run_uuid: 04202b3074ff4775bee79cfb0a3d9e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729735751288
+status: 3
+tags: []
+user_id: codespace

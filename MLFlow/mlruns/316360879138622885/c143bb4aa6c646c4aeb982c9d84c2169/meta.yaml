@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/c143bb4aa6c646c4aeb982c9d84c2169/artifacts
+end_time: 1729735754991
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: c143bb4aa6c646c4aeb982c9d84c2169
+run_name: exultant-dove-129
+run_uuid: c143bb4aa6c646c4aeb982c9d84c2169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729735753090
+status: 3
+tags: []
+user_id: codespace

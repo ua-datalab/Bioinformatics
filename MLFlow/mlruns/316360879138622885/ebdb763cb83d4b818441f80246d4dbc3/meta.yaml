@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/ebdb763cb83d4b818441f80246d4dbc3/artifacts
+end_time: 1729735766651
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: ebdb763cb83d4b818441f80246d4dbc3
+run_name: nosy-gnat-606
+run_uuid: ebdb763cb83d4b818441f80246d4dbc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729735764750
+status: 3
+tags: []
+user_id: codespace

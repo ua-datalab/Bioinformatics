@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/316360879138622885/0b8ef342eec04fd0945f431e4a95b1aa/artifacts
+end_time: 1729735764747
+entry_point_name: ''
+experiment_id: '316360879138622885'
+lifecycle_stage: active
+run_id: 0b8ef342eec04fd0945f431e4a95b1aa
+run_name: efficient-skunk-433
+run_uuid: 0b8ef342eec04fd0945f431e4a95b1aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729735762736
+status: 3
+tags: []
+user_id: codespace
