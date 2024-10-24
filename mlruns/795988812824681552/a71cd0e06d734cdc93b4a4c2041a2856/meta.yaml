@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/mlruns/795988812824681552/a71cd0e06d734cdc93b4a4c2041a2856/artifacts
+end_time: 1729734561440
+entry_point_name: ''
+experiment_id: '795988812824681552'
+lifecycle_stage: active
+run_id: a71cd0e06d734cdc93b4a4c2041a2856
+run_name: enthused-ray-588
+run_uuid: a71cd0e06d734cdc93b4a4c2041a2856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734559404
+status: 3
+tags: []
+user_id: codespace

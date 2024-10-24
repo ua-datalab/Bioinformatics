@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/mlruns/795988812824681552/7e80337a708a440983f84b1420d8fcc2/artifacts
+end_time: 1729734559400
+entry_point_name: ''
+experiment_id: '795988812824681552'
+lifecycle_stage: active
+run_id: 7e80337a708a440983f84b1420d8fcc2
+run_name: stately-newt-133
+run_uuid: 7e80337a708a440983f84b1420d8fcc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734557166
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/mlruns/795988812824681552/452627e83beb45e6944a80c908b81174/artifacts
+end_time: 1729734551241
+entry_point_name: ''
+experiment_id: '795988812824681552'
+lifecycle_stage: active
+run_id: 452627e83beb45e6944a80c908b81174
+run_name: mercurial-elk-299
+run_uuid: 452627e83beb45e6944a80c908b81174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734548961
+status: 3
+tags: []
+user_id: codespace

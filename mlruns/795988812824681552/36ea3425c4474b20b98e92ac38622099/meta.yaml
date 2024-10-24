@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/mlruns/795988812824681552/36ea3425c4474b20b98e92ac38622099/artifacts
+end_time: 1729734548959
+entry_point_name: ''
+experiment_id: '795988812824681552'
+lifecycle_stage: active
+run_id: 36ea3425c4474b20b98e92ac38622099
+run_name: nervous-koi-749
+run_uuid: 36ea3425c4474b20b98e92ac38622099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729734546681
+status: 3
+tags: []
+user_id: codespace
