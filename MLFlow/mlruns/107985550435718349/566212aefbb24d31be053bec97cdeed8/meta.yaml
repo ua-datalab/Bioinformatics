@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/566212aefbb24d31be053bec97cdeed8/artifacts
+end_time: 1729888164905
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 566212aefbb24d31be053bec97cdeed8
+run_name: masked-bear-241
+run_uuid: 566212aefbb24d31be053bec97cdeed8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729888162947
+status: 3
+tags: []
+user_id: codespace

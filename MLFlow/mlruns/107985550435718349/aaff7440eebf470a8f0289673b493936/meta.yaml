@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/aaff7440eebf470a8f0289673b493936/artifacts
+end_time: 1729888162943
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: aaff7440eebf470a8f0289673b493936
+run_name: unique-hound-748
+run_uuid: aaff7440eebf470a8f0289673b493936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729888160930
+status: 3
+tags: []
+user_id: codespace

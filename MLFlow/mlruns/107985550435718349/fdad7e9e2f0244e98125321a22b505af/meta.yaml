@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/fdad7e9e2f0244e98125321a22b505af/artifacts
+end_time: 1729888171733
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: fdad7e9e2f0244e98125321a22b505af
+run_name: intelligent-fox-310
+run_uuid: fdad7e9e2f0244e98125321a22b505af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729888169232
+status: 3
+tags: []
+user_id: codespace

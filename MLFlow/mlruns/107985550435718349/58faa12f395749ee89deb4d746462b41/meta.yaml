@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/58faa12f395749ee89deb4d746462b41/artifacts
+end_time: 1729888169230
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 58faa12f395749ee89deb4d746462b41
+run_name: able-penguin-82
+run_uuid: 58faa12f395749ee89deb4d746462b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729888167023
+status: 3
+tags: []
+user_id: codespace

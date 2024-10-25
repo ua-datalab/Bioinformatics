@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/badfca64886846ff8ea0d0c56d925d08/artifacts
+end_time: 1729888160927
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: badfca64886846ff8ea0d0c56d925d08
+run_name: funny-grub-594
+run_uuid: badfca64886846ff8ea0d0c56d925d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729888158939
+status: 3
+tags: []
+user_id: codespace

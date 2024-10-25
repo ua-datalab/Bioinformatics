@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/e05eca2613454ac189b0fd4f22fabd08/artifacts
+end_time: 1729888156942
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: e05eca2613454ac189b0fd4f22fabd08
+run_name: likeable-goose-217
+run_uuid: e05eca2613454ac189b0fd4f22fabd08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729888153425
+status: 3
+tags: []
+user_id: codespace
