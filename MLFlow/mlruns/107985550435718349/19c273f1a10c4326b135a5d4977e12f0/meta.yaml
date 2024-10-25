@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/19c273f1a10c4326b135a5d4977e12f0/artifacts
+end_time: 1729889432140
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 19c273f1a10c4326b135a5d4977e12f0
+run_name: blushing-finch-124
+run_uuid: 19c273f1a10c4326b135a5d4977e12f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729889429487
+status: 3
+tags: []
+user_id: codespace

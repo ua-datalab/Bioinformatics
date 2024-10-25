@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/907aa524bab24ea2a2534198a11dcece/artifacts
+end_time: 1729889441543
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 907aa524bab24ea2a2534198a11dcece
+run_name: agreeable-horse-480
+run_uuid: 907aa524bab24ea2a2534198a11dcece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729889439490
+status: 3
+tags: []
+user_id: codespace

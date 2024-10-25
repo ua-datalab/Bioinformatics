@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/736c9df2a4f247c48c826e183b1854dd/artifacts
+end_time: 1729889450026
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 736c9df2a4f247c48c826e183b1854dd
+run_name: bald-koi-649
+run_uuid: 736c9df2a4f247c48c826e183b1854dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729889447906
+status: 3
+tags: []
+user_id: codespace

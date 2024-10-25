@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/d76079e0343b40e280d25833c669119e/artifacts
+end_time: 1729889443682
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: d76079e0343b40e280d25833c669119e
+run_name: awesome-fowl-149
+run_uuid: d76079e0343b40e280d25833c669119e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729889441545
+status: 3
+tags: []
+user_id: codespace

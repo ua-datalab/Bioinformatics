@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/a91bd74950ae44cda7a1c688b07b6bc1/artifacts
+end_time: 1729889436905
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: a91bd74950ae44cda7a1c688b07b6bc1
+run_name: enchanting-snipe-74
+run_uuid: a91bd74950ae44cda7a1c688b07b6bc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729889434265
+status: 3
+tags: []
+user_id: codespace

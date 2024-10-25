@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/788905b44de54e3d84cb57c0fec77994/artifacts
+end_time: 1729889445721
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 788905b44de54e3d84cb57c0fec77994
+run_name: traveling-doe-924
+run_uuid: 788905b44de54e3d84cb57c0fec77994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729889443684
+status: 3
+tags: []
+user_id: codespace

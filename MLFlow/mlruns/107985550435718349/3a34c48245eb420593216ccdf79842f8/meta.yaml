@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/3a34c48245eb420593216ccdf79842f8/artifacts
+end_time: 1729889447904
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 3a34c48245eb420593216ccdf79842f8
+run_name: welcoming-wasp-665
+run_uuid: 3a34c48245eb420593216ccdf79842f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729889445723
+status: 3
+tags: []
+user_id: codespace
