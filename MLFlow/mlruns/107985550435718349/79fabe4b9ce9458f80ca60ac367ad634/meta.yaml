@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/79fabe4b9ce9458f80ca60ac367ad634/artifacts
+end_time: 1730237368665
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 79fabe4b9ce9458f80ca60ac367ad634
+run_name: mercurial-steed-470
+run_uuid: 79fabe4b9ce9458f80ca60ac367ad634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730237366535
+status: 3
+tags: []
+user_id: codespace

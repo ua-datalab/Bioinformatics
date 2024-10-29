@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/a5f31783aef745c3887020ac73e98222/artifacts
+end_time: 1730237366532
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: a5f31783aef745c3887020ac73e98222
+run_name: selective-crow-300
+run_uuid: a5f31783aef745c3887020ac73e98222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730237364234
+status: 3
+tags: []
+user_id: codespace
