@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/5d42116a82dc488fa5c1bc4548af3c6e/artifacts
+deleted_time: 1730236095413
+end_time: 1730234916706
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: 5d42116a82dc488fa5c1bc4548af3c6e
+run_name: adorable-foal-412
+run_uuid: 5d42116a82dc488fa5c1bc4548af3c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234914473
+status: 3
+tags: []
+user_id: codespace

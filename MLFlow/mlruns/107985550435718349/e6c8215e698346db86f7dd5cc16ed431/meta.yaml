@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/e6c8215e698346db86f7dd5cc16ed431/artifacts
+deleted_time: 1730236095381
+end_time: 1730234920641
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: e6c8215e698346db86f7dd5cc16ed431
+run_name: gentle-deer-482
+run_uuid: e6c8215e698346db86f7dd5cc16ed431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234918615
+status: 3
+tags: []
+user_id: codespace

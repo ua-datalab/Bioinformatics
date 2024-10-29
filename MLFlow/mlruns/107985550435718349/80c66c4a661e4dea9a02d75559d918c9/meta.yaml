@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/80c66c4a661e4dea9a02d75559d918c9/artifacts
+end_time: 1730236111364
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 80c66c4a661e4dea9a02d75559d918c9
+run_name: clumsy-cat-291
+run_uuid: 80c66c4a661e4dea9a02d75559d918c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730236108455
+status: 3
+tags: []
+user_id: codespace

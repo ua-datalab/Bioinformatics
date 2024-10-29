@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/9bf97bfc3c3c4d129313a3d081bf9fc6/artifacts
+deleted_time: 1730236095391
+end_time: 1730234927002
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: 9bf97bfc3c3c4d129313a3d081bf9fc6
+run_name: righteous-mink-377
+run_uuid: 9bf97bfc3c3c4d129313a3d081bf9fc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234924845
+status: 3
+tags: []
+user_id: codespace

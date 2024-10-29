@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/438e5cf84faa405bbdd40abe9046c963/artifacts
+deleted_time: 1730236095536
+end_time: 1730234423839
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: 438e5cf84faa405bbdd40abe9046c963
+run_name: legendary-flea-65
+run_uuid: 438e5cf84faa405bbdd40abe9046c963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234420752
+status: 3
+tags: []
+user_id: codespace

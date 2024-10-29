@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/ca19ef58b7b24c8781274515d6bce6d7/artifacts
+deleted_time: 1730236095341
+end_time: 1730235658843
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: ca19ef58b7b24c8781274515d6bce6d7
+run_name: victorious-whale-345
+run_uuid: ca19ef58b7b24c8781274515d6bce6d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730235651264
+status: 3
+tags: []
+user_id: codespace

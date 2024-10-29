@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/042238b5ef2143af904d6019cdc29921/artifacts
+deleted_time: 1730236095513
+end_time: 1730234914470
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: 042238b5ef2143af904d6019cdc29921
+run_name: likeable-conch-797
+run_uuid: 042238b5ef2143af904d6019cdc29921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234911232
+status: 3
+tags: []
+user_id: codespace

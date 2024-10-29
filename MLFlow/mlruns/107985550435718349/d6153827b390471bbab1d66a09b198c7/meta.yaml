@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/d6153827b390471bbab1d66a09b198c7/artifacts
+end_time: 1730236126397
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: d6153827b390471bbab1d66a09b198c7
+run_name: Best_Model_Run
+run_uuid: d6153827b390471bbab1d66a09b198c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730236115247
+status: 3
+tags: []
+user_id: codespace

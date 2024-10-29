@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/8eb12200c597417abeb1c586b9cce2cc/artifacts
+deleted_time: 1730236095365
+end_time: 1730234929105
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: 8eb12200c597417abeb1c586b9cce2cc
+run_name: unruly-lark-137
+run_uuid: 8eb12200c597417abeb1c586b9cce2cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234927005
+status: 3
+tags: []
+user_id: codespace

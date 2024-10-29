@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/ac37969bdac64d55bf64794e585e3755/artifacts
+deleted_time: 1730236095481
+end_time: 1730234435240
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: ac37969bdac64d55bf64794e585e3755
+run_name: nosy-bat-847
+run_uuid: ac37969bdac64d55bf64794e585e3755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234433014
+status: 3
+tags: []
+user_id: codespace

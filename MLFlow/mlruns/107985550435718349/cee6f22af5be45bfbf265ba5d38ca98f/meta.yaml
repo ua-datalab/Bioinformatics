@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/cee6f22af5be45bfbf265ba5d38ca98f/artifacts
+deleted_time: 1730236095498
+end_time: 1730234430926
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: cee6f22af5be45bfbf265ba5d38ca98f
+run_name: unique-shrike-366
+run_uuid: cee6f22af5be45bfbf265ba5d38ca98f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234428014
+status: 3
+tags: []
+user_id: codespace

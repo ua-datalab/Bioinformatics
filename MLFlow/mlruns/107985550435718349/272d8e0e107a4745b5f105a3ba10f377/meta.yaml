@@ -1,8 +1,9 @@
 artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/272d8e0e107a4745b5f105a3ba10f377/artifacts
+deleted_time: 1730236095519
 end_time: 1729888173931
 entry_point_name: ''
 experiment_id: '107985550435718349'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 272d8e0e107a4745b5f105a3ba10f377
 run_name: zealous-carp-33
 run_uuid: 272d8e0e107a4745b5f105a3ba10f377

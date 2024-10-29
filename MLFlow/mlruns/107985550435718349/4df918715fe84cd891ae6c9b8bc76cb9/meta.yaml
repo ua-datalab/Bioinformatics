@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/4df918715fe84cd891ae6c9b8bc76cb9/artifacts
+deleted_time: 1730236095511
+end_time: 1730234409048
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: 4df918715fe84cd891ae6c9b8bc76cb9
+run_name: trusting-fish-926
+run_uuid: 4df918715fe84cd891ae6c9b8bc76cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234398281
+status: 3
+tags: []
+user_id: codespace

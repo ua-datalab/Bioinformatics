@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/379acc6f4d41456bb0497770f2499260/artifacts
+deleted_time: 1730236095486
+end_time: 1730234878149
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: 379acc6f4d41456bb0497770f2499260
+run_name: judicious-fly-791
+run_uuid: 379acc6f4d41456bb0497770f2499260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234423841
+status: 3
+tags: []
+user_id: codespace

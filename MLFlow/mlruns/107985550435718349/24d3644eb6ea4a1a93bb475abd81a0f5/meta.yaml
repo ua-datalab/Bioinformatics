@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/24d3644eb6ea4a1a93bb475abd81a0f5/artifacts
+end_time: 1730236113230
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 24d3644eb6ea4a1a93bb475abd81a0f5
+run_name: welcoming-steed-673
+run_uuid: 24d3644eb6ea4a1a93bb475abd81a0f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730236111366
+status: 3
+tags: []
+user_id: codespace

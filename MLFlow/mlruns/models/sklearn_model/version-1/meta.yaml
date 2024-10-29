@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730236201613
+current_stage: None
+description: ''
+last_updated_timestamp: 1730236201613
+name: sklearn_model
+run_id: d6153827b390471bbab1d66a09b198c7
+run_link: ''
+source: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/d6153827b390471bbab1d66a09b198c7/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/d6153827b390471bbab1d66a09b198c7/artifacts/random_forest_model
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/a663aba3fdc24b909c0eb69de43e1b7d/artifacts
+deleted_time: 1730236095373
+end_time: 1730234931275
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: a663aba3fdc24b909c0eb69de43e1b7d
+run_name: crawling-croc-564
+run_uuid: a663aba3fdc24b909c0eb69de43e1b7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234929108
+status: 3
+tags: []
+user_id: codespace

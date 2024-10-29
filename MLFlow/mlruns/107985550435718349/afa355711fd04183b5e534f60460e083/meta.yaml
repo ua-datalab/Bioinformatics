@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/afa355711fd04183b5e534f60460e083/artifacts
+deleted_time: 1730236095507
+end_time: 1730234433011
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: afa355711fd04183b5e534f60460e083
+run_name: skittish-dove-555
+run_uuid: afa355711fd04183b5e534f60460e083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234430930
+status: 3
+tags: []
+user_id: codespace

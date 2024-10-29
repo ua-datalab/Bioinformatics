@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/93332b6735514a779d38c9e76393da5b/artifacts
+end_time: 1730236121677
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: active
+run_id: 93332b6735514a779d38c9e76393da5b
+run_name: rare-lynx-418
+run_uuid: 93332b6735514a779d38c9e76393da5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730236119306
+status: 3
+tags: []
+user_id: codespace

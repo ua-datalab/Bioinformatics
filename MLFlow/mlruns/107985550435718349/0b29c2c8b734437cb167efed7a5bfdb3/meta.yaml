@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/0b29c2c8b734437cb167efed7a5bfdb3/artifacts
+deleted_time: 1730236095537
+end_time: 1730234414164
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: 0b29c2c8b734437cb167efed7a5bfdb3
+run_name: grandiose-goat-110
+run_uuid: 0b29c2c8b734437cb167efed7a5bfdb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234409056
+status: 3
+tags: []
+user_id: codespace

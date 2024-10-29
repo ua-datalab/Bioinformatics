@@ -1,8 +1,9 @@
 artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/bf391a105b9742939742fa374240afcd/artifacts
+deleted_time: 1730236095534
 end_time: 1729888167020
 entry_point_name: ''
 experiment_id: '107985550435718349'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bf391a105b9742939742fa374240afcd
 run_name: useful-squid-996
 run_uuid: bf391a105b9742939742fa374240afcd

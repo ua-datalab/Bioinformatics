@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/195381106f224475bdac1456b34d693c/artifacts
+deleted_time: 1730236095415
+end_time: 1730234922634
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: 195381106f224475bdac1456b34d693c
+run_name: bouncy-fowl-907
+run_uuid: 195381106f224475bdac1456b34d693c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234920644
+status: 3
+tags: []
+user_id: codespace

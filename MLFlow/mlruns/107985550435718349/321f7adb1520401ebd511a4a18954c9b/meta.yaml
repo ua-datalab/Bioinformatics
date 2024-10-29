@@ -1,8 +1,9 @@
 artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/321f7adb1520401ebd511a4a18954c9b/artifacts
+deleted_time: 1730236095529
 end_time: 1729889439488
 entry_point_name: ''
 experiment_id: '107985550435718349'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 321f7adb1520401ebd511a4a18954c9b
 run_name: agreeable-ape-666
 run_uuid: 321f7adb1520401ebd511a4a18954c9b

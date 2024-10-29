@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/a68deb523b6448b9a08d7d88c8240d7a/artifacts
+deleted_time: 1730236095505
+end_time: 1730234417717
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: a68deb523b6448b9a08d7d88c8240d7a
+run_name: treasured-colt-572
+run_uuid: a68deb523b6448b9a08d7d88c8240d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234414167
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/f52cf2a46e5c4534a3c502da022e708a/artifacts
+deleted_time: 1730236095490
+end_time: 1730234778951
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: f52cf2a46e5c4534a3c502da022e708a
+run_name: marvelous-lark-396
+run_uuid: f52cf2a46e5c4534a3c502da022e708a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234577378
+status: 3
+tags: []
+user_id: codespace

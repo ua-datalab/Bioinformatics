@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Bioinformatics/MLFlow/mlruns/107985550435718349/b4e3e2775c0a4779b8984cad15281f62/artifacts
+deleted_time: 1730236095443
+end_time: 1730234918613
+entry_point_name: ''
+experiment_id: '107985550435718349'
+lifecycle_stage: deleted
+run_id: b4e3e2775c0a4779b8984cad15281f62
+run_name: valuable-bird-261
+run_uuid: b4e3e2775c0a4779b8984cad15281f62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730234916708
+status: 3
+tags: []
+user_id: codespace
